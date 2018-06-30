@@ -18,3 +18,5 @@ ans : the benefits are :
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 ans : by using another version control application like Google docs or cloud storage like Google Drive. not only that we can use another tricky version by using social media that able to share another file like fb, whatsapp, LINE etc. It would be harder because we have to always update the project manually by ourselves and in some case our project will be difficult to manage and to do a further maintenance.
 
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+ans : when we want to add a spesific feature in a project. the benefits are the project become easier to manage and the features can be checked first before be able to merge.
