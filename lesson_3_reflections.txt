@@ -9,3 +9,8 @@ ans :
 forks : taking another project from another GitHub user directly in GitHub
 clones : create another copy from a project in a local machine only so the project doesn't exist in GitHub
 branches : create another version in a project in a local machine or in GitHub
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+ans : the benefits are :
+1. we get an updated version of our project
+2. we can use or add more features to the project without any internet connection
