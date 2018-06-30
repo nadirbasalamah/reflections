@@ -14,3 +14,7 @@ branches : create another version in a project in a local machine or in GitHub
 ans : the benefits are :
 1. we get an updated version of our project
 2. we can use or add more features to the project without any internet connection
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+ans : by using another version control application like Google docs or cloud storage like Google Drive. not only that we can use another tricky version by using social media that able to share another file like fb, whatsapp, LINE etc. It would be harder because we have to always update the project manually by ourselves and in some case our project will be difficult to manage and to do a further maintenance.
+
